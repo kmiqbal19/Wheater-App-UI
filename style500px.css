@@ -1,0 +1,25 @@
+/* Weather Info -- Temp Container */
+div.weather__info--temp {
+  padding: 1rem;
+}
+/* Weather Info */
+div.weather__info {
+  font-size: 0.7rem;
+  align-items: flex-end;
+}
+/* Heading */
+h1 {
+  font-size: 3rem !important;
+  padding: 0 1rem;
+}
+/* Paragraphs and Icons */
+p {
+  font-size: 1.3rem;
+}
+i {
+  font-size: 2.5rem;
+}
+/* Weather Temperature */
+div.weather__temp > div {
+  margin-bottom: 4rem;
+}
